@@ -75,7 +75,7 @@ Followed by:
 
 Was then asked to enter username and password to confirm. Project now stored here: [https://github.com/Siminic87/user-centric-milestone-final](https://github.com/Siminic87/user-centric-milestone-final)
 
-To run: download project to workspace in [Cloud9](https://c9.io/login), open index.html and click "Run" on top navigation.
+To run: [GitHub Pages](https://siminic87.github.io/user-centric-milestone-final/)
 
 ## Credits
 ### Media
