@@ -33,26 +33,27 @@ All features fully responsive on mobile devices (incl. tablets and smartphones).
 
 ## Technologies Used
 - HTML
--- The project uses HTML code to allow structuring and display of the information presented via MarketingMan.ie.
+    - The project uses HTML code to allow structuring and display of the information presented on MarketingMan.ie.
 - CSS
--- The project uses CSS code to visually design the data that is being transmitted via HTML.
+    - The project uses CSS code to visually design and animate the page's structure as defined by the HTML.
 - [Bootstrap](https://getbootstrap.com/docs/3.3/)
--- The project uses the Bootstrap framework (v. 3.3.7) to save time in development by relying on standardized HTML and CSS elements that can be found in the library.
+    - The project uses the Bootstrap framework (v. 3.3.7) to save time in development by relying on standardized HTML and CSS elements that can be found in the library.
 - [jQuery](https://blog.jquery.com/2017/03/20/jquery-3-2-1-now-available/) & [Bootstrap javascript](https://getbootstrap.com/docs/3.3/getting-started/)
--- The project uses jQuery (v. 3.2.1) and Boostrap javascript (v. 3.2.1) for animation and inclusion of portfolio carousel element.
+    - The project uses jQuery (v. 3.2.1) and Boostrap javascript (v. 3.2.1) for animation and inclusion of portfolio carousel element.
 - [Google Fonts](https://fonts.google.com/)
--- The project uses Google Fonts to include font styles that visually represent the message of the page.
+    - The project uses Google Fonts to include font styles that visually represent the message of the page.
 - [Embedded YouTube Video](https://www.youtube.com/watch?v=cP74xRrlSW4)
--- The project uses an embedded YouTube video in order to offer multimedia video content to users informing them about online marketing services.
+    - The project uses an embedded YouTube video in order to offer multimedia video content to users informing them about online marketing services.
 
 ## Testing
 1.	Quick information about online marketing services on offer
     1. Go to the "MarketingMan.ie" homepage
     2. Try to scroll down to Content Section and click on “Learn More” to get to Portfolio Page. Verify that Portfolio Page is linked correctly and fully loads upon click. 
     3. Try to scroll down to Portfolio Section and verify that carousel moves slides correctly to left or right when clicking on corresponding arrow buttons.
-    4. OR Try to click on “Services”, “Portfolio” or “Contact” /  “Get in Touch!” / “Get Quote” / ”Get your 1st free” in Main Navigation, Footer, Callout Section on homepage or at bottom of Services Page to get to relevant subpages. Verify that subpages are linked correctly and fully load upon click. 
-    5. Try to click on video on Services Page and verify that it plays correctly.
-    6. Try to scroll down to Portfolio carousel on Portfolio Page and verify that carousel moves slides correctly to left or right when clicking on corresponding arrow buttons.
+    4. Try to hover over and click on the buttons and verify that animations give appropriate visual cues as to the intended use of the buttons.
+    5. OR try to click on “Services”, “Portfolio” or “Contact” /  “Get in Touch!” / “Get Quote” / ”Get your 1st free” in Main Navigation, Footer, Callout Section on homepage or at bottom of Services Page to get to relevant subpages. Verify that subpages are linked correctly and fully load upon click. 
+    6. Try to click on video on Services Page and verify that it plays correctly.
+    7. Try to scroll down to Portfolio carousel on Portfolio Page and verify that carousel moves slides correctly to left or right when clicking on corresponding arrow buttons.
 
 Manual testing revealed that all content and pages are seamlessly accessible on all devices and all major browsers. The page looks virtually the same on different Browsers. 
 
@@ -83,4 +84,7 @@ To run: [GitHub Pages](https://siminic87.github.io/user-centric-milestone-final/
 - The video used in this site was embedded from [youtube.com](https://www.youtube.com/watch?v=cP74xRrlSW4m)
 
 ### Portfolio Carousel
-- Advice for adapting Bootstrap carousel snippet for showing multiple slides at one found on https://stackoverflow.com/questions/20007610/bootstrap-carousel-multiple-frames-at-once
+- Advice for adapting Bootstrap carousel snippet for showing multiple slides at one found on [stackoverflow.com](https://stackoverflow.com/questions/20007610/bootstrap-carousel-multiple-frames-at-once)
+
+### Contact Form
+- Bootstrap Contact Form snippet found on [bootsnip.com](https://bootsnipp.com/snippets/95Oj)
