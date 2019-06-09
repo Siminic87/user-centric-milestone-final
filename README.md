@@ -66,7 +66,7 @@ Manual testing revealed that all content and pages are seamlessly accessible on 
 Only one minor bug was noticed when content on main page would not display correctly due to unclosed div tag. Bug fixed.
 
 ## Deployment
-Uploaded project to github repository by using:
+Uploaded project to github repository by using commands:
 
 - git remote add origin https://github.com/Siminic87/user-centric-milestone-final.git
 
@@ -74,9 +74,9 @@ Followed by:
 
 - git push -u origin master
 
-Was then asked to enter username and password to confirm. Project now stored here: [https://github.com/Siminic87/user-centric-milestone-final](https://github.com/Siminic87/user-centric-milestone-final)
+in Cloud9's command line interface. Was then asked to enter username and password to confirm. Project now stored here: [https://github.com/Siminic87/user-centric-milestone-final](https://github.com/Siminic87/user-centric-milestone-final)
 
-To run: [GitHub Pages](https://siminic87.github.io/user-centric-milestone-final/)
+To run locally: [GitHub Pages](https://siminic87.github.io/user-centric-milestone-final/)
 
 ## Credits
 ### Media
